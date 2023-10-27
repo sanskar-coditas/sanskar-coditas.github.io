@@ -1,5 +1,13 @@
 [
   {
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://sanskar-coditas.github.io/hello"
+      }
+    ]
+  },
+  {
     "relation": [
       "delegate_permission/common.handle_all_urls"
     ],
